@@ -82,7 +82,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** why can't a person tickle himself?
 
-**Image:** The bearded toga stick figure tickling his own foot with a confused face. A big speech bubble with a question mark.
+**Image:** A stick figure with a bushy beard and a simple triangle toga, trying to tickle his own bare foot with a confused face. A big speech bubble with a question mark.
 
 ## 1:10 — image 014
 
@@ -100,7 +100,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** A child, he pointed out, can hardly tickle itself at all.
 
-**Image:** A small stick figure child with a round head and tiny body trying to tickle its own tummy, looking puzzled. The bearded Darwin figure watches from the side nodding.
+**Image:** A small stick figure child with a round head and tiny body trying to tickle its own tummy, looking puzzled. An old stick figure with a bald head and long white beard watches from the side, nodding.
 
 ## 1:30 — image 017
 
@@ -130,7 +130,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** Sometimes the volunteer did it themselves.
 
-**Image:** The volunteer stick figure pushing the lever on its own foot, looking bored with a flat mouth. The lab coat figure watches holding a clipboard.
+**Image:** A volunteer stick figure pushing a lever that tickles its own foot, looking bored with a flat mouth. A stick figure in a lab coat watches holding a clipboard.
 
 ## 2:05 — image 022
 
@@ -142,19 +142,19 @@ Every prompt ends with this shared style block:
 
 **Narration:** When they moved it themselves, the feeling dropped away.
 
-**Image:** The same bar chart: tall bar 'OTHER' next to a very short bar labeled 'SELF'. A down arrow points at the short bar. A bored stick figure face next to it.
+**Image:** A simple bar chart: a tall bar labeled 'OTHER' next to a very short bar labeled 'SELF'. A down arrow points at the short bar. A bored stick figure face next to it.
 
 ## 2:14 — image 024
 
 **Narration:** Then came the strange part.
 
-**Image:** A stick figure scientist with wide eyes and raised eyebrows leaning in closely, with a big exclamation mark above its head.
+**Image:** A stick figure scientist in a lab coat with wide eyes and raised eyebrows leaning in closely, with a big exclamation mark above its head.
 
 ## 2:16 — image 025
 
 **Narration:** When the volunteer just rested their hand on the lever while the experimenter moved it, so their hand went along for the ride without making the movement,
 
-**Image:** The volunteer's hand resting limp on the lever while the lab coat stick figure's hand pushes it. The volunteer's hand gets dragged along, drawn with little dotted motion lines. The volunteer looks relaxed.
+**Image:** A volunteer stick figure's hand resting limp on a lever while a lab coat stick figure's hand pushes the lever. The volunteer's hand gets dragged along, drawn with little dotted motion lines. The volunteer looks relaxed.
 
 ## 2:28 — image 026
 
@@ -184,7 +184,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** The world moves. The whole room jumps.
 
-**Image:** A simple room with a table, a lamp and a window, all drawn doubled and tilted with shaky motion lines, as if the whole room jumped. The stick figure looks startled.
+**Image:** A simple room with a table, a lamp and a window, all drawn doubled and tilted with shaky motion lines, as if the whole room jumped. A stick figure looks startled.
 
 ## 3:03 — image 031
 
@@ -196,7 +196,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** The room stays perfectly still.
 
-**Image:** The same simple room with table, lamp and window, perfectly straight and calm. The stick figure stands in the middle with a small smile.
+**Image:** A simple room with a table, a lamp and a window, perfectly straight and calm. A stick figure stands in the middle with a small smile.
 
 ## 3:14 — image 033
 
@@ -208,37 +208,37 @@ Every prompt ends with this shared style block:
 
 **Narration:** But only one of those made the world lurch.
 
-**Image:** Two panels: left panel a finger poking an eye with a shaky room and a sad face; right panel a normally moving eye with a calm room and a happy face. Left has a red X-ish shake symbol, right has a check mark.
+**Image:** Two panels: left panel a finger poking an eye with a shaky room and a sad face; right panel a normally moving eye with a calm room and a happy face. Left has a red X, right has a green check mark.
 
 ## 3:23 — image 035
 
 **Narration:** The difference is that when you move your eye on purpose, your brain sends a copy of the command to itself,
 
-**Image:** A blob brain sending one arrow down to the eye labeled 'MOVE', and a second arrow looping back into itself carrying a little paper copy.
+**Image:** A blob brain sending one arrow down to an eye labeled 'MOVE', and a second arrow looping back into itself carrying a little paper copy.
 
 ## 3:31 — image 036
 
 **Narration:** a note that says I'm about to move, so expect everything to shift by this much.
 
-**Image:** A sticky note stuck on the brain that reads 'MOVING! EXPECT SHIFT' in wobbly handwriting, with a small arrow and a ruler doodle.
+**Image:** A sticky note stuck on a pink blob brain that reads 'MOVING! EXPECT SHIFT' in wobbly handwriting, with a small arrow and a ruler doodle.
 
 ## 3:37 — image 037
 
 **Narration:** When the shift arrives, it matches the prediction and gets cancelled out. You never notice.
 
-**Image:** Two identical puzzle pieces fitting together, one labeled 'PREDICTION' and one labeled 'SHIFT'. Above them a big cancel sign (circle with a line through it). A calm stick figure beside it.
+**Image:** Two puzzle pieces fitting together, one labeled 'PREDICTION' and one labeled 'SHIFT'. Above them a big cancel sign (circle with a line through it). A calm stick figure beside it.
 
 ## 3:46 — image 038
 
 **Narration:** When you push your eye with your finger, no note was sent.
 
-**Image:** A finger poking an eye. Next to the brain, an empty sticky note spot with a big question mark and an empty mailbox.
+**Image:** A stick figure's finger poking its own eye. Next to a pink blob brain, an empty spot where a sticky note should be, with a big question mark and an empty mailbox.
 
 ## 3:50 — image 039
 
 **Narration:** The movement arrives unannounced, so your brain assumes it wasn't you. It must have been the world.
 
-**Image:** A blob brain with alarmed eyes pointing at a spinning planet Earth doodle, with a speech bubble saying 'NOT ME! THE WORLD!'
+**Image:** A pink blob brain with alarmed eyes pointing at a spinning planet Earth doodle, with a speech bubble saying 'NOT ME! THE WORLD!'
 
 ## 3:59 — image 040
 
@@ -256,7 +256,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** and the same year an American named Roger Sperry landed on the same idea independently.
 
-**Image:** A third stick figure scientist on the other side of the frame, far away, with a lightbulb above his head and the same paper. A dashed line connects him to the two other scientists.
+**Image:** On the left, two stick figure scientists in lab coats holding a paper. Far away on the right, a third stick figure scientist alone with a lightbulb above his head holding the same paper. A dashed line connects them.
 
 ## 4:18 — image 043
 
@@ -274,7 +274,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** It doesn't go deaf, because every time it chirps, its nervous system sends a signal that quiets its own ears at exactly that moment.
 
-**Image:** The cricket chirping while a little arrow from its tiny brain goes to its ears, where a pair of small earmuffs appears.
+**Image:** A big green cricket chirping while a little arrow from its tiny brain goes to its ears, where a pair of small earmuffs appears.
 
 ## 4:42 — image 046
 
@@ -286,19 +286,19 @@ Every prompt ends with this shared style block:
 
 **Narration:** The cricket is silencing itself so it can still hear everything else.
 
-**Image:** The cricket wearing earmuffs only on its own chirp, while it happily hears a small bird singing nearby with music notes floating to it.
+**Image:** A big green cricket wearing small earmuffs while it chirps, and still happily hearing a small bird singing nearby with music notes floating to it.
 
 ## 4:57 — image 048
 
 **Narration:** You do the same thing with touch.
 
-**Image:** A stick figure human standing next to the cricket, both giving a thumbs up, the human pointing at its own hand.
+**Image:** A stick figure human standing next to a big green cricket, both giving a thumbs up, the human pointing at its own hand.
 
 ## 5:00 — image 049
 
 **Narration:** When you move your fingers toward your ribs, your brain already knows what's coming: the timing, the pressure, the exact path.
 
-**Image:** A hand moving toward a stick figure's ribs along a dotted path. Above, the brain holds a checklist: 'TIME ✓ PRESSURE ✓ PATH ✓'.
+**Image:** A hand moving toward a stick figure's ribs along a dotted path. Above, a pink blob brain holds a checklist with 'TIME', 'PRESSURE' and 'PATH', each ticked.
 
 ## 5:09 — image 050
 
@@ -310,7 +310,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** Tickling is what happens when touch arrives that your brain didn't predict.
 
-**Image:** A brain with surprised wide eyes being poked by a hand that comes out of nowhere, with a big 'SURPRISE!' in wobbly letters.
+**Image:** A pink blob brain with surprised wide eyes being poked by a hand that comes out of nowhere, with a big 'SURPRISE!' in wobbly letters.
 
 ## 5:22 — image 052
 
@@ -322,7 +322,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** You can't surprise yourself, so you can't tickle yourself.
 
-**Image:** A stick figure jumping out from behind a box yelling 'BOO!' at... itself, looking in a mirror, with a flat bored face in the reflection.
+**Image:** A stick figure yelling 'BOO!' at its own reflection in a mirror. The reflection has a flat, bored face.
 
 ## 5:30 — image 054
 
@@ -340,25 +340,25 @@ Every prompt ends with this shared style block:
 
 **Narration:** The volunteer moved one arm with their left hand.
 
-**Image:** A volunteer stick figure moving a joystick on the first robot arm with its left hand. An arrow shows the direction of movement.
+**Image:** A volunteer stick figure moving a joystick on a clunky robot arm with its left hand. An arrow shows the direction of movement.
 
 ## 5:46 — image 057
 
 **Narration:** That movement was sent to a second robot, which stroked a piece of soft foam across the palm of their right hand.
 
-**Image:** A wire goes from the first robot arm to a second robot arm, which holds a fluffy yellow square of foam brushing across the volunteer's open right palm.
+**Image:** A wire goes from one clunky robot arm to a second robot arm, which holds a fluffy yellow square of foam brushing across a stick figure's open right palm.
 
 ## 5:55 — image 058
 
 **Narration:** You're tickling yourself, just through a robot. And like always, it barely tickled.
 
-**Image:** The volunteer operating the robots with a bored flat face. A small tickle meter next to it with the needle almost at zero.
+**Image:** A volunteer stick figure operating two clunky robot arms, one stroking its own palm with yellow foam, with a bored flat face. A small tickle meter next to it with the needle almost at zero.
 
 ## 6:02 — image 059
 
 **Narration:** Then the researchers started adding delays.
 
-**Image:** A scientist stick figure holding a big stopwatch and turning a knob labeled 'DELAY' on the robot.
+**Image:** A scientist stick figure holding a big stopwatch and turning a knob labeled 'DELAY' on a clunky robot arm.
 
 ## 6:06 — image 060
 
@@ -376,7 +376,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** They tried something else. Instead of delaying the touch, they rotated it, so when you moved the stick one direction, the foam moved at an angle.
 
-**Image:** The joystick moving straight up with an arrow, and the foam on the palm moving diagonally with a tilted arrow. A curved angle mark between the arrows.
+**Image:** A joystick on a clunky robot arm moving straight up with an arrow, and yellow foam on a stick figure's palm moving diagonally with a tilted arrow. A curved angle mark between the arrows.
 
 ## 6:29 — image 063
 
@@ -388,7 +388,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** Nothing about the touch itself had changed, and the volunteer was still the one causing it.
 
-**Image:** The volunteer pointing at itself with a label 'STILL ME', next to the foam on the palm, which looks exactly the same as before.
+**Image:** A volunteer stick figure pointing at itself with a label 'STILL ME', while a clunky robot arm strokes its palm with a square of yellow foam.
 
 ## 6:40 — image 065
 
@@ -400,7 +400,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** A few hundred milliseconds, a few degrees off, and suddenly it felt like someone else.
 
-**Image:** The volunteer laughing, with a ghostly dotted-outline stick figure appearing next to it as if a stranger was tickling. A small clock and angle icon.
+**Image:** A volunteer stick figure laughing while yellow foam brushes its palm, with a ghostly dotted-outline stick figure appearing next to it as if a stranger was tickling. A small clock and angle icon.
 
 ## 6:55 — image 067
 
@@ -418,13 +418,13 @@ Every prompt ends with this shared style block:
 
 **Narration:** seemed to be sending the signal to turn it down.
 
-**Image:** The cerebellum drawn with a tiny arm reaching over and turning down a volume knob on the rest of the brain.
+**Image:** A side-view pink blob brain whose small wrinkly back part, labeled 'CEREBELLUM', has a tiny arm reaching over and turning down a volume knob on the rest of the brain.
 
 ## 7:16 — image 070
 
 **Narration:** So your brain isn't just feeling the world. It's constantly subtracting you from it,
 
-**Image:** A big math equation: 'WORLD' (with a tree and a sun) minus 'YOU' (a stick figure) equals a small pile. Written in wobbly handwriting.
+**Image:** A big wobbly math equation: a tree, a sun and a stick figure, minus the stick figure (labeled 'YOU'), equals just the tree and the sun.
 
 ## 7:22 — image 071
 
@@ -442,7 +442,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** That filter has a cost, and you've probably felt it.
 
-**Image:** A price tag hanging off the kitchen strainer that reads 'COST'. A stick figure looks at it worried.
+**Image:** A kitchen strainer with a price tag hanging off it that reads 'COST'. A stick figure looks at it worried.
 
 ## 7:41 — image 074
 
@@ -454,7 +454,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** Each person had a finger resting under a small lever.
 
-**Image:** Close-up of a simple finger lying flat under a small lever bar on the table.
+**Image:** Close-up of a simple stick-figure finger lying flat on a table under a small lever bar.
 
 ## 7:54 — image 076
 
@@ -466,37 +466,37 @@ Every prompt ends with this shared style block:
 
 **Narration:** Then person one was told to match that, and so on, back and forth.
 
-**Image:** The two stick figures across the table with a big circular back-and-forth arrow between them.
+**Image:** Two stick figures sitting across a small table from each other, with a big circular back-and-forth arrow between them.
 
 ## 8:08 — image 078
 
 **Narration:** Everyone was trying to be fair. Everyone was trying to match.
 
-**Image:** Both stick figures smiling politely, each holding a small balance scale.
+**Image:** Two stick figures across a small table, both smiling politely, each holding a small balance scale.
 
 ## 8:13 — image 079
 
 **Narration:** But the force went up about 38% with every turn.
 
-**Image:** A staircase of arrows going up, each step labeled '+38%'. The two stick figures look slightly annoyed.
+**Image:** A staircase of arrows going up, each step labeled '+38%'. Two stick figures on either side look slightly annoyed.
 
 ## 8:18 — image 080
 
 **Narration:** Within a few rounds they were pressing down roughly 20 times harder than where they started.
 
-**Image:** The two stick figures now red-faced and straining, pushing with huge thick arrows. A small sign reads 'x20'. The table is slightly bending.
+**Image:** Two stick figures across a small table, red-faced and straining, pushing with huge thick arrows. A small sign reads 'x20'. The table is slightly bending.
 
 ## 8:25 — image 081
 
 **Narration:** The reason is the same filter. When you press on someone else, your brain predicts your own force and turns down how it feels to you.
 
-**Image:** A stick figure pushing a lever while its brain turns a volume knob down on its own push arrow, making the arrow look small to it.
+**Image:** A stick figure pushing a lever while a pink blob brain above its head turns a volume knob down on its own push arrow, making the arrow look small to it.
 
 ## 8:35 — image 082
 
 **Narration:** So your own push always feels softer than it really is, and theirs always feels harder.
 
-**Image:** Two arrows: one small labeled 'MY PUSH (FEELS)' and one big labeled 'YOUR PUSH (FEELS)', side by side for comparison.
+**Image:** Two arrows side by side: a small thin one labeled 'MY PUSH' and a big thick one labeled 'YOUR PUSH'. A stick figure between them looks at the big one, shocked.
 
 ## 8:41 — image 083
 
@@ -526,13 +526,13 @@ Every prompt ends with this shared style block:
 
 **Narration:** It gets darker from here.
 
-**Image:** The same white background but a big dark scribbled storm cloud and a small worried stick figure walking toward it.
+**Image:** A big dark scribbled storm cloud and a small worried stick figure walking toward it.
 
 ## 9:11 — image 088
 
 **Narration:** If your brain labels everything you do as me and everything else as not me,
 
-**Image:** A brain holding a label gun, sticking a 'ME' sticker on a stick figure's own hand and a 'NOT ME' sticker on a tree.
+**Image:** A pink blob brain holding a label gun, sticking a 'ME' sticker on a stick figure's own hand and a 'NOT ME' sticker on a tree.
 
 ## 9:18 — image 089
 
@@ -550,7 +550,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** He noticed something about two of its most common symptoms.
 
-**Image:** The scientist holding a magnifying glass over two circles labeled '1' and '2'.
+**Image:** A stick figure scientist with glasses holding a magnifying glass over two circles labeled '1' and '2'.
 
 ## 9:34 — image 092
 
@@ -562,7 +562,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** and many also report something called passivity experiences, a feeling that their movements are being controlled by an outside force,
 
-**Image:** A stick figure drawn like a puppet, with simple strings attached to its arms going up to the top of the frame. It looks confused.
+**Image:** A cartoon stick figure marionette toy: thin strings tied to its hands go up to a wooden cross-bar at the top. The stick figure looks puzzled, with a question mark.
 
 ## 9:49 — image 094
 
@@ -574,19 +574,19 @@ Every prompt ends with this shared style block:
 
 **Narration:** Frith wondered if both of those could come from the same broken tag.
 
-**Image:** The scientist with a thought bubble showing a torn 'ME' tag with two arrows coming off it, one to a speech bubble and one to a puppet string.
+**Image:** A stick figure scientist with glasses and a thought bubble showing a torn 'ME' tag with two arrows coming off it, one to a speech bubble and one to a puppet string.
 
 ## 9:57 — image 096
 
 **Narration:** What if your own actions arrived without the note that says this was you?
 
-**Image:** A hand moving, with an empty envelope floating next to it and a big question mark. The sticky note 'THIS WAS YOU' is crossed out.
+**Image:** A hand moving, with an empty envelope floating next to it and a big question mark. A sticky note reading 'THIS WAS YOU' is crossed out.
 
 ## 10:03 — image 097
 
 **Narration:** In 2000, Blakemore and Frith ran the tickle test on people with schizophrenia.
 
-**Image:** The two robot arms and foam set up again. A patient stick figure sits at the controls. Two scientists watch. A sign reads '2000'.
+**Image:** Two clunky robot arms with a square of yellow foam. A patient stick figure sits at the controls. Two scientists watch. A sign reads '2000'.
 
 ## 10:10 — image 098
 
@@ -598,7 +598,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** But the patients who heard voices, or felt their bodies being controlled, rated both about the same.
 
-**Image:** A second bar chart labeled 'PATIENTS' with two bars of the same height, 'OTHER' and 'SELF', and an equals sign between them.
+**Image:** A bar chart labeled 'PATIENTS' with two bars of the same height, 'OTHER' and 'SELF', and an equals sign between them.
 
 ## 10:25 — image 100
 
@@ -610,7 +610,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** To their brains, their own touch felt just as foreign as a stranger's.
 
-**Image:** The stick figure's own hand drawn wearing a disguise: a fake mustache and a little hat, labeled 'STRANGER?'.
+**Image:** A stick figure looking at its own hand, which wears a disguise: a fake mustache and a little hat, labeled 'STRANGER?'.
 
 ## 10:34 — image 102
 
@@ -622,13 +622,13 @@ Every prompt ends with this shared style block:
 
 **Narration:** You're talking to yourself right now, reading these words in your head.
 
-**Image:** A stick figure reading a book, with a small speech bubble inside its head repeating the words 'blah blah'.
+**Image:** A stick figure reading a book, with a small speech bubble inside its head containing the words 'BLAH BLAH'.
 
 ## 10:42 — image 104
 
 **Narration:** There's evidence the brain uses a similar prediction to mark that voice as yours, quieting its response to your own speech the way it quiets your own touch.
 
-**Image:** A brain stamping a 'ME' stamp onto a speech bubble, and a volume knob next to the bubble turned down.
+**Image:** A pink blob brain stamping a 'ME' stamp onto a speech bubble, and a volume knob next to the bubble turned down.
 
 ## 10:53 — image 105
 
@@ -640,7 +640,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** Not imagined voices. Your voice, with the "me" label torn off.
 
-**Image:** A speech bubble with a 'ME' label hanging half torn off it. The stick figure holds its head.
+**Image:** A speech bubble with a 'ME' label hanging half torn off it. A stick figure next to it holds its head.
 
 ## 11:06 — image 107
 
@@ -652,7 +652,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** It's something your brain calculates, moment by moment, out of predictions.
 
-**Image:** A brain wearing glasses sitting at a desk with an old calculator, a pile of papers labeled 'PREDICTIONS'.
+**Image:** A pink blob brain wearing glasses sitting at a desk with an old calculator, a pile of papers labeled 'PREDICTIONS'.
 
 ## 11:17 — image 109
 
@@ -664,7 +664,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** But it's a calculation, and calculations can go wrong.
 
-**Image:** The calculator with a cracked screen showing 'ERROR' and a tiny puff of smoke. The brain looks worried.
+**Image:** An old calculator with a cracked screen showing 'ERROR' and a tiny puff of smoke. A pink blob brain wearing glasses looks at it, worried.
 
 ## 11:28 — image 111
 
@@ -694,7 +694,7 @@ Every prompt ends with this shared style block:
 
 **Narration:** a kind of laughter too high for us to hear,
 
-**Image:** The rat laughing with tiny zig-zag sound waves going way up high, and the scientist holding a hand to his ear, hearing nothing.
+**Image:** A small grey rat lying on its back laughing, with tiny zig-zag sound waves going way up high, and a stick figure scientist with a mustache holding a hand to his ear, hearing nothing.
 
 ## 11:54 — image 116
 
@@ -724,25 +724,25 @@ Every prompt ends with this shared style block:
 
 **Narration:** So try it one more time. Your fingers on your ribs.
 
-**Image:** The same stick figure from the start of the video touching its own ribs, looking at the viewer.
+**Image:** A stick figure touching its own ribs, looking at the viewer.
 
 ## 12:20 — image 121
 
 **Narration:** You feel them, and your brain feels them coming, cancels them out
 
-**Image:** The brain above the stick figure holding a big eraser, rubbing out a dotted arrow coming toward the ribs.
+**Image:** A pink blob brain above a stick figure's head holding a big eraser, rubbing out a dotted arrow coming toward the ribs.
 
 ## 12:24 — image 122
 
 **Narration:** and quietly signs its name at the bottom: this was you.
 
-**Image:** A paper document with a pen signing at the bottom in wobbly handwriting 'this was you'. The brain holds the pen.
+**Image:** A paper document with a pen signing at the bottom in wobbly handwriting 'THIS WAS YOU'. A pink blob brain holds the pen.
 
 ## 12:29 — image 123
 
 **Narration:** That's why it doesn't work.
 
-**Image:** The stick figure shrugging with a flat mouth, hand still on its ribs, a small 'meh' next to it.
+**Image:** A stick figure shrugging with a flat mouth, one hand on its ribs, a small 'MEH' next to it.
 
 ## 12:31 — image 124
 
