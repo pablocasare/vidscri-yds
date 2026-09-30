@@ -254,3 +254,18 @@ BEATS = [
     ("Out of every sensation you'll ever have, the tickle is the one that needs someone else to be there.",
      "Two stick figures side by side, one tickling the other, both laughing happily. A big wobbly heart drawn between them."),
 ]
+
+# Beats that end a paragraph in the script (1-based), for paragraph pauses.
+PARAGRAPH_ENDS = {
+    3, 4, 7, 10, 16, 17, 21, 26, 27, 28, 29, 30, 31, 32, 37, 39, 43, 47, 50,
+    53, 57, 58, 60, 61, 63, 66, 69, 72, 73, 77, 80, 83, 86, 87, 89, 94, 96,
+    99, 100, 101, 106, 110, 111, 117, 119, 122, 124,
+}
+
+# Extra seconds where the narrator waits for the viewer to try something.
+VIEWER_PAUSES = {
+    1: 1.5,    # "Actually do it."
+    29: 2.0,   # pressing on the eyelid
+    31: 1.5,   # looking left, then right
+    120: 1.2,  # "Your fingers on your ribs."
+}
